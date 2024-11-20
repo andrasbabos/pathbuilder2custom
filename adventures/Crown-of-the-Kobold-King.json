@@ -1,0 +1,153 @@
+{
+    "customPackID": "954251a4-df53-43cd-aa1f-1b6fa20af24c",
+    "customPackName": "Crown of the Kobold King",
+    "listCustomWeapons": [
+        {
+            "databaseID": 1,
+            "timestamp": "1730210772582",
+            "uniqueIdentiier": "f6ef183a-e571-4764-bdb6-b8a099ce48b1",
+            "name": "Azarim",
+            "itemLevel": 7,
+            "hands": "1",
+            "bulk": "1",
+            "description": "<b>Perception</b> +12; darkvision 30 feet, hearing 30 feet (imprecise)<br><b>Communication</b> telepathy (Celestial, Common, Dwarven, Undercommon)<br><b>Skills</b> Alcohol Lore +13, Deception +15, Diplomacy +13, Religion +13, Society +15<br><b>Int</b> +2, <b>Wis</b> +2, <b>Cha</b> +4<br><b>Will</b> +15<br>&nbsp;In life, the dwarven rogue Azarim was always something of an outsider among her people for her fast and loose relationship with dwarven tradition. However, she still harbored in her heart a fierce pride in what dwarves had accomplished. She had long fought against the cult of Droskar, seeing it as emblematic of all the worst parts of dwarven culture.<br>&nbsp;By the time she infiltrated Droskar’s Crucible in 4065 AR, the cult was already in decline. She knew portions of Droskar’s Crucible were built by the worshippers of Torag who preceded the cult and that something of great power had been locked away in the Lower Vault, but not what that object was. If she could gain control over the cult, she could simultaneously use them to open the Lower Vault and convince them to set aside their worship of Droskar—if not for her own patron, Cayden Cailean, then any other faith with a more positive leaning.<br>&nbsp;Unfortunately, her attempt to seize control of the cult using their own traditions against them backfired when she succumbed to the Soul Smith. Unlike the others who were slain by the Soul Smith, Azarim’s soul managed to somewhat escape being bound into the Soul Smith’s <i>soul chain</i> by instead seeking shelter in her own magic rapier. Frustrated at the fact her soul slipped away but ignorant of where that soul fled to, the Soul Smith returned to his tasks and soon forgot about Azarim—she was, to the undead dwarf, just another in a long line of failures.<br>&nbsp;Today, Azarim is an intelligent <i>+1 striking shifting rapier</i>. The rapier has been waiting patiently for centuries for a new, like-minded ally to take her up in arms against her foes. While she prefers to exist in the form of a rapier, she can use one of her actions to activate her shifting rune to take the shape of another weapon as needed.<br>&nbsp;While Azarim prefers to be wielded by chaotic good characters, particularly those who worship Cayden Cailean, she’s open-minded and eager to work with any wielder who seeks to oppose corrupting or toxic traditions in society, particularly those who work against the influence of the cult of Droskar. To wielders she doesn’t approve of, she works to convince them to either change their ways or to hand her over to someone who she can work with, resorting to her ability to induce weakness in her carrier as needed when simply having them discard her is the only option left.<br>&nbsp;Azarim deals an additional 1d6 chaotic damage to worshippers of Droskar, to creatures allied with Droskar’s faith, and to those who are under the influence of Droskar’s faith—which includes the Kobold King Merlokrep for as long as he continues to wear his crown as well as most of the intelligent inhabitants of the deeper levels of Droskar’s Crucible.<br>&nbsp;Full rules for intelligent items appear on pages 88–89 of the Pathfinder Gamemastery Guide.",
+            "src": "Custom",
+            "action0": 1,
+            "action0desc": "Azarim casts 2nd-level illusory disguise on her wielder. This effect ends immediately as soon as the wielder no longer carries Azarim.",
+            "proficiencyType": 1,
+            "damage": 6,
+            "damageType": "P",
+            "weaponTraits": "3rd Party, Deadly d8, Disarm, Finesse, Unique, CG, Divine, Evocation, Intelligent"
+        },
+        {
+            "databaseID": 1,
+            "timestamp": "1730206372542",
+            "uniqueIdentiier": "dcd3605f-f815-4db0-abdf-763ac4c8914e",
+            "name": "Drazmorg's Staff of All-Sight",
+            "hands": "1+",
+            "description": "x",
+            "src": "Custom",
+            "weaponTraits": "3rd Party"
+        },
+        {
+            "databaseID": 1,
+            "uniqueIdentiier": "0492cf04-150e-4d5b-a475-2b39f79c9a09",
+            "name": "Flying Talon",
+            "hands": "1+",
+            "description": "x",
+            "src": "Custom",
+            "weaponTraits": "3rd Party"
+        },
+        {
+            "databaseID": 1,
+            "uniqueIdentiier": "fefc5e83-2869-43ed-b609-9189b254bbcc",
+            "name": "Grasp of Droskar",
+            "hands": "1+",
+            "description": "x",
+            "src": "Custom",
+            "weaponTraits": "3rd Party"
+        },
+        {
+            "databaseID": 1,
+            "uniqueIdentiier": "b5f09ee2-9e44-4951-abd9-5a54fe1dabfe",
+            "name": "Heartripper Blade",
+            "hands": "1+",
+            "description": "x",
+            "src": "Custom",
+            "weaponTraits": "3rd Party"
+        },
+        {
+            "databaseID": 1,
+            "uniqueIdentiier": "ed4c8ccc-f1a9-4176-bfde-f82f72dad5a6",
+            "name": "Man-Feller",
+            "hands": "1+",
+            "description": "x",
+            "src": "Custom",
+            "weaponTraits": "3rd Party"
+        },
+        {
+            "databaseID": 1,
+            "uniqueIdentiier": "51b56b2b-976b-4cb8-80c5-22f8aee0bab1",
+            "name": "Soul Chain",
+            "hands": "1+",
+            "description": "x",
+            "src": "Custom",
+            "weaponTraits": "3rd Party"
+        }
+    ],
+    "listCustomEquipment": [
+        {
+            "databaseID": 1,
+            "uniqueIdentiier": "50733d4b-f739-4b47-af12-b566aa08dc94",
+            "category": 8,
+            "name": "Cresset of Grissly Interrogation",
+            "traits": "3rd Party, Magical",
+            "description": "x",
+            "src": "Custom"
+        },
+        {
+            "databaseID": 1,
+            "uniqueIdentiier": "e9e35620-7a52-4f53-aff4-a399f6a15356",
+            "category": 8,
+            "name": "Crown of the Kobold King",
+            "traits": "3rd Party, Magical",
+            "description": "x",
+            "src": "Custom"
+        },
+        {
+            "databaseID": 1,
+            "uniqueIdentiier": "a849aa66-164a-4426-ae40-0ac1157fdbb5",
+            "category": 8,
+            "name": "In the Shadows of Toil",
+            "traits": "3rd Party, Magical",
+            "description": "x",
+            "src": "Custom"
+        },
+        {
+            "databaseID": 1,
+            "uniqueIdentiier": "3c3b89dd-8c95-4082-8ad4-5e51ea196566",
+            "category": 8,
+            "name": "Necrobinding Serum",
+            "traits": "3rd Party, Magical",
+            "description": "x",
+            "src": "Custom"
+        },
+        {
+            "databaseID": 1,
+            "timestamp": "1726042533983",
+            "uniqueIdentiier": "5e9f9deb-cd20-477c-82da-a1a479942ff4",
+            "category": 8,
+            "name": "Ring of Torag",
+            "traits": "3rd Party, Magical",
+            "description": "x",
+            "src": "Custom"
+        },
+        {
+            "databaseID": 1,
+            "uniqueIdentiier": "1f5b8ff3-d53f-4859-ac9a-a4dac13d2fea",
+            "category": 8,
+            "name": "Shard of the Third Seal",
+            "traits": "3rd Party, Magical",
+            "description": "x",
+            "src": "Custom"
+        },
+        {
+            "databaseID": 1,
+            "uniqueIdentiier": "5f1a3855-e0c0-493a-8661-3999256ff6f0",
+            "category": 8,
+            "name": "Soulspeaker",
+            "traits": "3rd Party, Magical",
+            "description": "x",
+            "src": "Custom"
+        },
+        {
+            "databaseID": 1,
+            "uniqueIdentiier": "90e7d49c-6a4b-4f6c-86b8-ea311e4abfe6",
+            "category": 8,
+            "name": "Tallowheart Mass",
+            "traits": "3rd Party, Magical",
+            "description": "x",
+            "src": "Custom"
+        }
+    ]
+}
