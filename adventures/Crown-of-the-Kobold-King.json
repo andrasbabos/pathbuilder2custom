@@ -23,7 +23,7 @@
             "uniqueIdentiier": "dcd3605f-f815-4db0-abdf-763ac4c8914e",
             "name": "Drazmorg's Staff of All-Sight",
             "hands": "1+",
-            "description": "x",
+            "description": "This long, gnarled staff looks like several bones fused together, then wrapped tightly with strips of desiccated, gray skin. At the top of the staff, a clump of sinew clasps a small stone orb resembling a large human eye. When the staff is activated, this eye twitches and glances around randomly. When wielding this staff, you gain a +1 item bonus to visual Perception checks.<br><b>Activate</b> Cast a Spell; <b>Effect</b> You expend a number of charges from the staff to cast a spell from its list.<b>Cantrip</b> <i>read aura</i><br><b>1st</b> <i>true strike</i><br><b>2nd</b> <i>darkvision, flaming sphere</i> (creates what appears to be a large eye made of fire), <i>see invisibility<i><br><b>3rd</b> <i>organsight</i> (Pathfinder Secrets of Magic 120), <i>web of eyes</i> (Secrets of Magic 140)<br><b>4th</b> <i>clairvoyance, countless eyes</i> (Advanced Player's Guide 217), <i>detect scrying<i><br><b>Craft Requirements</b> Supply one casting of all listed levels of all listed spells.",
             "src": "Custom",
             "weaponTraits": "3rd Party"
         },
@@ -32,7 +32,7 @@
             "uniqueIdentiier": "0492cf04-150e-4d5b-a475-2b39f79c9a09",
             "name": "Flying Talon",
             "hands": "1+",
-            "description": "x",
+            "description": "This weapon consists of a three-pronged barbed hook attached to a length of chain. It can be used as a melee weapon to stab at foes or hurled as a ranged weapon. Some kobolds are particularly fond of using flying talons, especially as a sort of badge of office above those who serve them. The ranged trip and tethered weapon traits are detailed on page 85 of the Pathfinder Bestiary.",
             "src": "Custom",
             "weaponTraits": "3rd Party"
         },
@@ -41,7 +41,7 @@
             "uniqueIdentiier": "fefc5e83-2869-43ed-b609-9189b254bbcc",
             "name": "Grasp of Droskar",
             "hands": "1+",
-            "description": "x",
+            "description": "This <i>+1 striking gauntlet</i> appears little more than a dull, soot-stained, metal-plated glove at first glance, but in truth it is an invasive boon granted by Droskar to his most faithful subjects. Placing the glove on your hand causes excruciating pain as your appendage curls into a tight fist and then slowly transforms to a supernaturally hard ball of black stone, fusing to you and preventing you from using this hand for anything other than gauntlet Strikes or the <i>grasp of Droskar's</i> activated abilities (a grasp of Droskar does not have the free-hand weapon trait). The gauntlet can't be removed without a successful casting of <i>remove curse</i> or a similar spell. The gauntlet reverts to normal (and can be removed with ease) if the curse is removed, the hand is removed from the body, or the wearer dies.<br>&nbsp;<b>Activate [one-action]</b> envision; <b>Frequency</b> once per hour; <b>Effect</b> You gain a +1 item bonus on all Athletics checks for 1 minute.<br>&nbsp;<b>Activate [two-actions]</b> envision; <b>Frequency</b> once per day; <b>Effect</b> You cast <i>ray of enfeeblement</i> with a spell attack modifier of +10 and a DC of 20.",
             "src": "Custom",
             "weaponTraits": "3rd Party"
         },
@@ -68,7 +68,7 @@
             "uniqueIdentiier": "51b56b2b-976b-4cb8-80c5-22f8aee0bab1",
             "name": "Soul Chain",
             "hands": "1+",
-            "description": "x",
+            "description": "A <i>soul chain</i> is a <i>+1 striking spiked chain</i> that has become cursed after a forge-spurned used it to kill a creature and trap its soul. In the hands of a forge-spurned, a <i>soul chain</i> inflicts an additional 1d6 fire damage on a hit. Other creatures can use a <i>soul chain</i> as a standard <i>+1 striking spiked chain</i>. A <i>soul chain</i> fuses with its wielder the first time the wielder damages a living creature with the weapon. A character who dies while carrying a <i>soul chain</i> must attempt a DC 20 Will save; on a failure, they're immediately transformed into a forge-spurned. Carrying multiple <i>soul chain</i>s doesn't increase the DC of the save, but the carrier must attempt the save once for each chain they carry.",
             "src": "Custom",
             "weaponTraits": "3rd Party"
         }
@@ -80,7 +80,7 @@
             "category": 8,
             "name": "Cresset of Grissly Interrogation",
             "traits": "3rd Party, Magical",
-            "description": "x",
+            "description": "This iron cresset appears as a cage-like basket with a metal bowl fitted into its base—a bowl sized perfectly to hold the severed head of a Medium or Small humanoid.<br>&nbsp;<b>Activate [three-actions]</b> Interact; <b>Frequency</b> once per day; <b>Effect</b> You open the cresset by detaching the top and folding it back on a hinge so that a decapitated head can be placed inside the bowl. Once the cage lid is folded back over the head and latched in place, and as long as the decapitated head has been dead for no longer than 10 minutes before being placed inside the cresset, the head is no longer subject to decay, and bugs and pests (such as maggots) are prevented from consuming the remains. This doesn't prevent the rest of the corpse or its soul from becoming undead, nor does it prevent effects that restore life to the dead (but note that some spells, such as <i>raise dead</i>, can't be used to restore life to a decapitated corpse in the first place). If the head is later removed from within the cresset, the head's delayed decay immediately catches up with it in a few seconds, rendering it useless for further use inside of a <i>cresset of grisly interrogation</i>.<br>&nbsp;<b>Activate</b> 1 minute (command, Interact); <b>Frequency</b> three times per day; <b>Requirements</b> A severed head is within the <i>cresset of grisly interrogation</i>; <b>Effect</b> You pose a question to the head contained within the cresset, and it animates briefly to reply with a short answer over the course of a minute. The cresset empowers the severed head with the ability to reply even without breath, granting the head a semblance of life, calling upon the physical remains' latent memories rather than summoning back the deceased's spirit. The head must be forcefully commanded to answer with a secret Intimidation check— other attempts to query the head without attempting an Intimidation check for a result automatically fail. Once activated in this way, this activation of a <i>cresset of grisly interrogation</i> can't be performed again for 1 hour. The head answers the question based on the result of the secret Intimidation check against the Will DC the creature had when it was alive or DC 25, whichever is higher.<br>&nbsp;<b>Critical Success</b> The head answers the question truthfully, to the best of its ability.<br><b>Success</b> The head answers the question truthfully, but the answer is brief, cryptic, or repetitive.<br><b>Failure</b> The head's answer provides false information, attempting to Lie to you with a +15 Deception modifier, or the creature's original Deception, whichever is higher.<br><b>Critical Failure</b> As failure, but the head gains a +4 circumstance bonus to its Deception check, and the next time you use this activation of the <i>cresset of grisly interrogation</i> during the next 24 hours, the result of your Intimidation check is one degree of success worse than the result you rolled.",
             "src": "Custom"
         },
         {
@@ -126,7 +126,7 @@
             "category": 8,
             "name": "Shard of the Third Seal",
             "traits": "3rd Party, Magical",
-            "description": "x",
+            "description": "This stone fragment from the <i>Third Seal</i> retains a tiny sliver of that legendary item's power. The shard sheds light constantly, with the effects of a torch requiring no oxygen and generating no heat. The flame can be covered or hidden, but it can't be smothered or quenched.<br>&nbsp;<b>Activate [two-actions]</b> envision, Interact; <b>Effect</b> You generate the effects of a <i>disrupt undead</i> cantrip, heightened to 3rd level.<br>&nbsp;<b>Activate [two-actions]</b> envision, Interact; <b>Frequency</b> once per day; <b>Effect</b> By passing the shard over a creature or object, you can produce the effects of a <i>nondetection</i> spell on that target.<br>&nbsp;<b>Activate [two-actions]</b> envision, Interact; <b>Frequency</b> once per day; <b>Effect</b> By gripping the shard tightly and waving it before you, you can produce the effects of a <i>levitate</i> spell on yourself.",
             "src": "Custom"
         },
         {
@@ -135,7 +135,7 @@
             "category": 8,
             "name": "Soulspeaker",
             "traits": "3rd Party, Magical",
-            "description": "x",
+            "description": "This grotesque, amulet-like shrunken head is said to hold a shard of its owner's psyche. The head is often that of a humanoid, but any creature capable of speaking in life can provide the grisly component needed for this magic item's creation. The head can contain a short message whispered to it and can then be commanded to repeat the message later. While a <i>soulspeaker</i> carries a message, the eyes of the shrunken head open, and they close as soon as its message is delivered.<br>&nbsp;<b>Activate [two-actions]</b> command; <b>Effect</b> You cast <i>message</i>, but instead of your message being transferred directly to a target's ears, the message is stored in the <i>soulspeaker</i>. The <i>soulspeaker's</i> eyes open, and the next time it's activated, the <i>soulspeaker</i> repeats the message you spoke to it with a rasping whisper before its eyes close again, the <i>message</i> expended.",
             "src": "Custom"
         },
         {
