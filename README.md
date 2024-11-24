@@ -1,15 +1,19 @@
 # Custom items for the Pathbuilder 2e web application
 
-To use these items, dowload the json files then upload to Pathbuilder (paid version needed).
+This repository contains definitions for custom items for Pathbuilder 2. For example items, backgrounds, spells which are defined in an adventure path but not present in the application or wands, scrolls, which needs to be manually created.
 
-- web application
+To use these items, download the json files then import to Pathbuilder (paid version needed).
+
+To import do the following:
+
+- open web application (<https://pathbuilder2e.com>)
   - menu
   - custom pack
   - import custom pack
 - android mobile application
   - (will write later)
 
-The magic runes needed to be added to the items separately after the item added to your character.
+The potency, strinking, other runes needed to be added to the items separately after the item added to your character!
 
 Please report any issues you find in the items and happy gaming!
 
